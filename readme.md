@@ -4,3 +4,5 @@ Creating on native web technologies web page for product
 
 - use BEM classificator
 - use notify library and Jquery
+
+![Скриншот](./img/screenshots.png "Скриншот")
